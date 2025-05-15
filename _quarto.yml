@@ -1,0 +1,41 @@
+project:
+  type: website
+
+website:
+  page-navigation: true
+  title: "Positron Workshop"
+  description: "Half-day introduction to Positron for R/RStudio users"
+  repo-url: https://github.com/posit-dev/positron-workshop
+  page-footer:
+    center:
+      - icon: github
+        href: https://github.com/posit-dev/positron-workshop
+    right: "This page is built with 💛 and [Quarto](https://quarto.org/)."
+  open-graph: true
+  sidebar:
+    id: main
+    logo: images/positron-icon.svg
+    title: Getting Started with Positron
+    pinned: true
+    align: center
+    search: true
+    collapse-level: 2
+    contents:
+      - href: index.qmd
+        text: Home
+      - href: setup.qmd
+      - text: "---"
+      - section: Modules
+        contents:
+        - href: 01-hello-positron.qmd
+        - href: 02-looking-around.qmd
+        - href: 03-projects.qmd
+        - href: 04-quarto.qmd
+        - href: 05-r.qmd
+        - href: 06-customization.qmd
+        - href: 07-beyond.qmd
+    
+format:
+  html:
+    code-overflow: wrap
+

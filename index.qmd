@@ -1,0 +1,18 @@
+---
+title: "Getting Started with Positron"
+---
+
+[Positron](https://positron.posit.co) is a next-generation data science IDE built by [Posit PBC](posit.co) that combines the best features of RStudio and Visual Studio Code. 
+
+This website hosts materials for a half-day introduction to Positron particularly for R and RStudio users. 
+
+## Events
+
+This workshop will be offered at several events in 2025:
+
+* [RaukR](raukr.qmd) with Jenny Bryan, June 2025
+* [Cascadia R Conf](caskdr.qmd) with Charlotte Wickham, June 2025
+* USCOTS with Hadley Wickham and Mine Çetinkaya-Rundel, July 2025
+* useR with Jenny Bryan and Julia Silge, August 2025
+
+{{< include _license.md >}}

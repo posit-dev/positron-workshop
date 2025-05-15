@@ -1,0 +1,18 @@
+---
+title: "RaukR Workshop"
+sidebar: main
+---
+
+> Date  
+> Time  
+> Location 
+
+## Before the workshop
+
+Bring your laptop with the latest version of Positron installed. See [Setup](setup.qmd) for detailed instructions.
+
+## Schedule
+
+## Instructor
+
+{{< include _license.md >}}

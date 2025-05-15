@@ -1,0 +1,32 @@
+---
+title: Intro to Positron for R/RStudio Users
+subtitle: Cascadia R Conf 2025
+sidebar: main
+---
+
+> Friday June 20, 2025  
+> 1:30 - 4:30 PM  
+> Karl Miller Center, 615 SW Harrison Street, Portland, OR  
+> Room KMC 185
+
+## Before the workshop
+
+Bring your laptop with the latest version of Positron installed. See [Setup](setup.qmd) for detailed instructions.
+
+## Schedule
+
+| Time | Topic |
+|------|-------|
+| 1:30 - 1:50 | [Hello Positron](01-hello-positron.qmd) |
+| 1:50 - 2:10 | [Looking Around](02-looking-around.qmd) |
+| 2:10 - 2:30 | [Projects](03-projects.qmd) |
+| 2:30 - 2:50 | [Quarto](04-quarto.qmd) |
+| 2:50 - 3:10 | [R](05-r.qmd) |
+| 3:10 - 3:30 | [Customization](06-customization.qmd) |
+| 3:30 - 3:50 | [Beyond](07-beyond.qmd) |
+
+## Instructor
+
+[Charlotte Wickham](https://cwick.co.nz) is a Developer Educator at Posit with a focus on Quarto. Before Posit, she taught Statistics and Data Science at Oregon State University.
+
+{{< include _license.md >}}
