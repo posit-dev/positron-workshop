@@ -25,15 +25,7 @@ website:
         text: Home
       - href: setup.qmd
       - text: "---"
-      - section: Modules
-        contents:
-        - href: 01-hello-positron.qmd
-        - href: 02-looking-around.qmd
-        - href: 03-projects.qmd
-        - href: 04-quarto.qmd
-        - href: 05-r.qmd
-        - href: 06-customization.qmd
-        - href: 07-beyond.qmd
+      - auto: modules/
     
 format:
   html:

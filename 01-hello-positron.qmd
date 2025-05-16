@@ -1,9 +1,0 @@
----
-title: Hello Positron
----
-
-[Slides](slides/01-hello-positron.pdf)
-
-```{=html}
-<iframe class="slide-deck" src="slides/01-hello-positron.pdf" height="420" width="747" style="border: 1px solid #2e3846;"></iframe>
-```

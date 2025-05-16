@@ -1,0 +1,5 @@
+---
+title: R
+---
+
+{{< include _slides.md >}}
