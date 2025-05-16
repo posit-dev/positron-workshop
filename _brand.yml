@@ -10,9 +10,12 @@ color:
     black: "#151515"
     white: "#FFFFFF"
   primary: blue
+  foreground: black
 
 typography: 
   fonts:
     - family: Atkinson Hyperlegible
       source: google
   base: Atkinson Hyperlegible
+  link: 
+    decoration: underline
