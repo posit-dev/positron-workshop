@@ -33,11 +33,9 @@ To be replaced with a link to a PDF card
 
 ### Data Explorer
 
-Run `View(mtcars)` in the Console, then find:
+-  Run `View(mtcars)` in the Console, then find the car with the highest `mpg`
 
--   
-
--   
+-  Run `View(mtcars)` in the Console, then find the number of cars where `cyl` is 4
 
 ### File Explorer
 
@@ -51,6 +49,8 @@ Run `View(mtcars)` in the Console, then find:
 
 -   The purpose of an icon you've never seen before
 
+-   A way to open a new positron window
+ 
 
 
 ::: {.callout-warning collapse="true"}
