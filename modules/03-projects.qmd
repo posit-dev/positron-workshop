@@ -3,3 +3,9 @@ title: Projects
 ---
 
 {{< include _slides.md >}}
+
+Git repo URL:
+
+```default
+https://github.com/posit-dev/positron-workshop-project
+```
