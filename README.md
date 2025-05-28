@@ -8,7 +8,7 @@ This workshop will be delivered at several events in 2025:
 
 * [RaukR](raukr.qmd) with Jenny Bryan, June 2025
 * [Cascadia R Conf](caskdr.qmd) with Charlotte Wickham, June 2025
-* USCOTS with Hadley Wickham and Mine Çetinkaya-Rundel, July 2025
+* [USCOTS](uscots.qmd) with Mine Çetinkaya-Rundel and Hadley Wickham, July 2025
 * useR with Jenny Bryan and Julia Silge, August 2025
 
 ## Workflow
@@ -26,4 +26,4 @@ Use the `include` shortcode to include the slide deck on the landing page:
 {{< include _slides.md >}}
 ```
 
-The rest of the landing page can be used for links, code, or other content you want easiy accessible to participants.
+The rest of the landing page can be used for links, code, or other content you want easily accessible to participants.
