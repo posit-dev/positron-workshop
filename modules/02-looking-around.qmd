@@ -1,5 +1,0 @@
----
-title: Looking Around
----
-
-{{< include _slides.md >}}

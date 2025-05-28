@@ -18,7 +18,7 @@ Bring your laptop with the latest version of Positron installed. See [Setup](set
 | Time | Topic |
 |------|-------|
 | 1:30 - 1:50 | [Hello Positron](modules/01-hello-positron.qmd) |
-| 1:50 - 2:10 | [Looking Around](modules/02-looking-around.qmd) |
+| 1:50 - 2:10 | [Exploring Positron](modules/02-explore.qmd) |
 | 2:10 - 2:30 | [Projects](modules/03-projects.qmd) |
 | 2:30 - 2:50 | [Quarto](modules/04-quarto.qmd) |
 | 2:50 - 3:10 | [R](modules/05-r.qmd) |
