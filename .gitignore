@@ -3,3 +3,4 @@
 
 /.luarc.json
 *.key
+.Rproj.user
