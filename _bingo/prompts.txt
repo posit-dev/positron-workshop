@@ -1,0 +1,39 @@
+A way to open a new R script file
+The shortcut to send R code to the Console
+The "Find and Replace" dialog box
+The shortcut for "Help: Show help at cursor"
+Where help, e.g. ?mean, displays
+The version of R running in the Console
+The button to restart the R Console
+The current working directory of the Console
+Variables you've defined in the Console
+Data Explorer: the car with the highest mpg
+Data Explorer: the number of cars where cyl is 4
+A prompt to "Open a folder"
+An action you can take on a folder once it is open
+An RStudio pane that isn't in Positron
+The purpose of an icon you've never seen before
+A way to open a new Positron window
+The shortcut for "Toggle Line Comment"
+Dark mode
+The button to customize your layout
+The setting that enables RStudio shortcuts
+A way to start another Console
+The button that opens your console history
+The button that saves a plot 
+Where Git information and actions live
+The version of Positron you're running
+A string, but only in .R files
+A string, but only in a specific (sub)folder
+The shortcut to insert the pipe, e.g. |>
+The shortcut to insert "<-"
+A way to open a specific file by its name
+A way to navigate to a specific symbol, e.g. function
+A terminal, i.e. "a shell"
+A way to see and edit two files side by side
+Another way to open the Command Palette
+Where to configure settings
+How to change the IDE theme
+How to change the IDE zoom level
+The currently installed extensions
+A button to toggle the primary side bar panel
