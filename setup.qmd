@@ -1,3 +1,7 @@
 ---
 title: Setup
 ---
+
+<https://positron.posit.co/>
+
+<https://positron.posit.co/download.html>
