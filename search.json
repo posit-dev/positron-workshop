@@ -1,5 +1,15 @@
 [
   {
+    "objectID": "setup.html",
+    "href": "setup.html",
+    "title": "Setup",
+    "section": "",
+    "text": "https://positron.posit.co/\nhttps://positron.posit.co/download.html",
+    "crumbs": [
+      "Setup"
+    ]
+  },
+  {
     "objectID": "LICENSE.html#creative-commons-attribution-sharealike-4.0-international-public-license",
     "href": "LICENSE.html#creative-commons-attribution-sharealike-4.0-international-public-license",
     "title": "Attribution-ShareAlike 4.0 International",
@@ -77,35 +87,35 @@
   {
     "objectID": "raukr.html",
     "href": "raukr.html",
-    "title": "RaukR Workshop",
+    "title": "Intro to Positron for R/RStudio Users",
     "section": "",
-    "text": "Date\nTime\nLocation"
+    "text": "Wednesday June 11, 2025 9:00 - 12:30 Campus Gotland, Uppsala University https://nbisweden.github.io/raukr-2025/"
   },
   {
     "objectID": "raukr.html#before-the-workshop",
     "href": "raukr.html#before-the-workshop",
-    "title": "RaukR Workshop",
+    "title": "Intro to Positron for R/RStudio Users",
     "section": "Before the workshop",
     "text": "Before the workshop\nBring your laptop with the latest version of Positron installed. See Setup for detailed instructions."
   },
   {
     "objectID": "raukr.html#schedule",
     "href": "raukr.html#schedule",
-    "title": "RaukR Workshop",
+    "title": "Intro to Positron for R/RStudio Users",
     "section": "Schedule",
-    "text": "Schedule"
+    "text": "Schedule\n\n\n\nTime\nTopic\n\n\n\n\n9:00 - 9:30\nHello Positron\n\n\n9:30 - 10:00\nExploring Positron\n\n\n10:00 - 10:30\nProjects\n\n\n11:00 - 11:20\nQuarto\n\n\n11:20 - 11:40\nR\n\n\n11:40 - 12:00\nCustomization\n\n\n12:00 - 12:30\nBeyond"
   },
   {
     "objectID": "raukr.html#instructor",
     "href": "raukr.html#instructor",
-    "title": "RaukR Workshop",
+    "title": "Intro to Positron for R/RStudio Users",
     "section": "Instructor",
-    "text": "Instructor"
+    "text": "Instructor\nJenny Bryan is a senior software engineer at Posit. She’s mostly on loan to the Positron team these days, but she keeps a hand in R package development, as part of the tidyverse team."
   },
   {
     "objectID": "raukr.html#license",
     "href": "raukr.html#license",
-    "title": "RaukR Workshop",
+    "title": "Intro to Positron for R/RStudio Users",
     "section": "License",
     "text": "License\nThis work is licensed under a Creative Commons Attribution 4.0 International License."
   },
