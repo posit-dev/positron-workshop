@@ -1,11 +1,13 @@
 ---
-title: "RaukR Workshop"
+title: Intro to Positron for R/RStudio Users
+subtitle: RaukR 2025
 sidebar: main
 ---
 
-> Date  
-> Time  
-> Location 
+> Wednesday June 11, 2025
+> 9:00 - 12:30
+> Campus Gotland, Uppsala University
+> <https://nbisweden.github.io/raukr-2025/>
 
 ## Before the workshop
 
@@ -13,6 +15,19 @@ Bring your laptop with the latest version of Positron installed. See [Setup](set
 
 ## Schedule
 
+| Time  |  Topic |
+|-------|--------|
+|  9:00 -  9:30 | [Hello Positron](modules/01-hello-positron.qmd) |
+|  9:30 - 10:00 | [Exploring Positron](modules/02-explore.qmd) |
+| 10:00 - 10:30 | [Projects](modules/03-projects.qmd) |
+| 11:00 - 11:20 | [Quarto](modules/04-quarto.qmd) |
+| 11:20 - 11:40 | [R](modules/05-r.qmd) |
+| 11:40 - 12:00 | [Customization](modules/06-customization.qmd) |
+| 12:00 - 12:30 | [Beyond](modules/07-beyond.qmd) |
+
 ## Instructor
+
+[Jenny Bryan](https://github.com/jennybc) is a senior software engineer at Posit.
+She's mostly on loan to the Positron team these days, but she keeps a hand in R package development, as part of the tidyverse team.
 
 {{< include _license.md >}}
