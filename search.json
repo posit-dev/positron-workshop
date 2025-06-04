@@ -4,7 +4,7 @@
     "href": "setup.html",
     "title": "Setup",
     "section": "",
-    "text": "https://positron.posit.co/\nhttps://positron.posit.co/download.html",
+    "text": "Install Positron:\n\nLatest released version: https://positron.posit.co/download.html\nPre-releases are here: https://github.com/posit-dev/positron/releases",
     "crumbs": [
       "Setup"
     ]
@@ -43,7 +43,7 @@
     "href": "modules/01-hello-positron.html",
     "title": "Hello Positron",
     "section": "",
-    "text": "Slides",
+    "text": "Slides\n\nInstall Positron:\n\nLatest released version: https://positron.posit.co/download.html\nPre-releases are here: https://github.com/posit-dev/positron/releases",
     "crumbs": [
       "Modules",
       "Hello Positron"
@@ -89,21 +89,21 @@
     "href": "raukr.html",
     "title": "Intro to Positron for R/RStudio Users",
     "section": "",
-    "text": "Wednesday June 11, 2025 9:00 - 12:30 Campus Gotland, Uppsala University https://nbisweden.github.io/raukr-2025/"
+    "text": "Wednesday June 11, 2025\n9:00 - 12:30\nCampus Gotland, Uppsala University\nhttps://nbisweden.github.io/raukr-2025/"
   },
   {
     "objectID": "raukr.html#before-the-workshop",
     "href": "raukr.html#before-the-workshop",
     "title": "Intro to Positron for R/RStudio Users",
     "section": "Before the workshop",
-    "text": "Before the workshop\nBring your laptop with the latest version of Positron installed. See Setup for detailed instructions."
+    "text": "Before the workshop\nBring your laptop with the latest version of Positron installed. For this workshop in particular, it may be worth it to install a pre-release (instead of the monthly release). See Setup for more."
   },
   {
     "objectID": "raukr.html#schedule",
     "href": "raukr.html#schedule",
     "title": "Intro to Positron for R/RStudio Users",
     "section": "Schedule",
-    "text": "Schedule\n\n\n\nTime\nTopic\n\n\n\n\n9:00 - 9:30\nHello Positron\n\n\n9:30 - 10:00\nExploring Positron\n\n\n10:00 - 10:30\nProjects\n\n\n11:00 - 11:20\nQuarto\n\n\n11:20 - 11:40\nR\n\n\n11:40 - 12:00\nCustomization\n\n\n12:00 - 12:30\nBeyond"
+    "text": "Schedule\n\n\n\nTime\nTopic\n\n\n\n\n9:00 - 9:30\nHello Positron\n\n\n9:30 - 10:00\nExploring Positron\n\n\n10:00 - 10:30\nProjects\n\n\n11:00 - 11:30\nQuarto\n\n\n11:30 - 12:00\nR\n\n\n12:00 - 12:30\nCustomization"
   },
   {
     "objectID": "raukr.html#instructor",
