@@ -2,7 +2,26 @@
 title: Setup
 ---
 
-Install Positron:
+## Positron - Required
 
-* Latest released version: <https://positron.posit.co/download.html>
-* Pre-releases are here: <https://github.com/posit-dev/positron/releases>
+Since Positron is under rapid development, we recommend downloading and installing the latest release as close as possible to the date of your workshop.
+
+Get the latest release at: <https://positron.posit.co/download.html>
+
+Pre-releases are available at: <https://github.com/posit-dev/positron/releases>
+
+## R - Required
+
+Positron will detect your existing R installation, so if you have a recent version of R (> 4.2) installed, you don't need to do anything else.
+
+If you don't have R installed, or need to update, follow the instructions for your operating system at <https://cloud.r-project.org/>.
+
+You'll also need the following packages installed:
+
+```{.r}
+install.packages(c("tidyverse", "palmerpenguins", "usethis"))
+```
+
+## Git - Optional but recommended
+
+Follow the instructions at <https://happygitwithr.com/install-git>.
