@@ -4,14 +4,14 @@ subtitle: RaukR 2025
 sidebar: main
 ---
 
-> Wednesday June 11, 2025
-> 9:00 - 12:30
-> Campus Gotland, Uppsala University
+> Wednesday June 11, 2025  
+> 9:00 - 12:30  
+> Campus Gotland, Uppsala University  
 > <https://nbisweden.github.io/raukr-2025/>
 
 ## Before the workshop
 
-Bring your laptop with the latest version of Positron installed. See [Setup](setup.qmd) for detailed instructions.
+Bring your laptop with the latest version of Positron installed. For this workshop in particular, it may be worth it to install a pre-release (instead of the monthly release). See [Setup](setup.qmd) for more.
 
 ## Schedule
 
@@ -20,10 +20,9 @@ Bring your laptop with the latest version of Positron installed. See [Setup](set
 |  9:00 -  9:30 | [Hello Positron](modules/01-hello-positron.qmd) |
 |  9:30 - 10:00 | [Exploring Positron](modules/02-explore.qmd) |
 | 10:00 - 10:30 | [Projects](modules/03-projects.qmd) |
-| 11:00 - 11:20 | [Quarto](modules/04-quarto.qmd) |
-| 11:20 - 11:40 | [R](modules/05-r.qmd) |
-| 11:40 - 12:00 | [Customization](modules/06-customization.qmd) |
-| 12:00 - 12:30 | [Beyond](modules/07-beyond.qmd) |
+| 11:00 - 11:30 | [Quarto](modules/04-quarto.qmd) |
+| 11:30 - 12:00 | [R](modules/05-r.qmd) |
+| 12:00 - 12:30 | [Customization](modules/06-customization.qmd) |
 
 ## Instructor
 
