@@ -20,6 +20,41 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for syntax highlighting */
+html { -webkit-text-size-adjust: 100%; }
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
 </style>
 
 
@@ -205,13 +240,25 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Install Positron:</p>
-<ul>
-<li>Latest released version: <a href="https://positron.posit.co/download.html" class="uri">https://positron.posit.co/download.html</a></li>
-<li>Pre-releases are here: <a href="https://github.com/posit-dev/positron/releases" class="uri">https://github.com/posit-dev/positron/releases</a></li>
-</ul>
+<section id="positron---required" class="level2">
+<h2 class="anchored" data-anchor-id="positron---required">Positron - Required</h2>
+<p>Since Positron is under rapid development, we recommend downloading and installing the latest release as close as possible to the date of your workshop.</p>
+<p>Get the latest release at: <a href="https://positron.posit.co/download.html" class="uri">https://positron.posit.co/download.html</a></p>
+<p>Pre-releases are available at: <a href="https://github.com/posit-dev/positron/releases" class="uri">https://github.com/posit-dev/positron/releases</a></p>
+</section>
+<section id="r---required" class="level2">
+<h2 class="anchored" data-anchor-id="r---required">R - Required</h2>
+<p>Positron will detect your existing R installation, so if you have a recent version of R (&gt; 4.2) installed, you don’t need to do anything else.</p>
+<p>If you don’t have R installed, or need to update, follow the instructions for your operating system at <a href="https://cloud.r-project.org/" class="uri">https://cloud.r-project.org/</a>.</p>
+<p>You’ll also need the following packages installed:</p>
+<div class="sourceCode" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">install.packages</span>(<span class="fu">c</span>(<span class="st">"tidyverse"</span>, <span class="st">"palmerpenguins"</span>, <span class="st">"usethis"</span>))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</section>
+<section id="git---optional-but-recommended" class="level2">
+<h2 class="anchored" data-anchor-id="git---optional-but-recommended">Git - Optional but recommended</h2>
+<p>Follow the instructions at <a href="https://happygitwithr.com/install-git" class="uri">https://happygitwithr.com/install-git</a>.</p>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

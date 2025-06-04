@@ -4,7 +4,37 @@
     "href": "setup.html",
     "title": "Setup",
     "section": "",
-    "text": "Install Positron:\n\nLatest released version: https://positron.posit.co/download.html\nPre-releases are here: https://github.com/posit-dev/positron/releases",
+    "text": "Since Positron is under rapid development, we recommend downloading and installing the latest release as close as possible to the date of your workshop.\nGet the latest release at: https://positron.posit.co/download.html\nPre-releases are available at: https://github.com/posit-dev/positron/releases",
+    "crumbs": [
+      "Setup"
+    ]
+  },
+  {
+    "objectID": "setup.html#positron---required",
+    "href": "setup.html#positron---required",
+    "title": "Setup",
+    "section": "",
+    "text": "Since Positron is under rapid development, we recommend downloading and installing the latest release as close as possible to the date of your workshop.\nGet the latest release at: https://positron.posit.co/download.html\nPre-releases are available at: https://github.com/posit-dev/positron/releases",
+    "crumbs": [
+      "Setup"
+    ]
+  },
+  {
+    "objectID": "setup.html#r---required",
+    "href": "setup.html#r---required",
+    "title": "Setup",
+    "section": "R - Required",
+    "text": "R - Required\nPositron will detect your existing R installation, so if you have a recent version of R (&gt; 4.2) installed, you don’t need to do anything else.\nIf you don’t have R installed, or need to update, follow the instructions for your operating system at https://cloud.r-project.org/.\nYou’ll also need the following packages installed:\ninstall.packages(c(\"tidyverse\", \"palmerpenguins\", \"usethis\"))",
+    "crumbs": [
+      "Setup"
+    ]
+  },
+  {
+    "objectID": "setup.html#git---optional-but-recommended",
+    "href": "setup.html#git---optional-but-recommended",
+    "title": "Setup",
+    "section": "Git - Optional but recommended",
+    "text": "Git - Optional but recommended\nFollow the instructions at https://happygitwithr.com/install-git.",
     "crumbs": [
       "Setup"
     ]
@@ -165,7 +195,7 @@
     "href": "modules/03-projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Slides\n\nGit repo URL:\nhttps://github.com/posit-dev/positron-workshop-project",
+    "text": "Slides\n\nGit repo URL:\nhttps://github.com/posit-dev/positron-workshop-project\nIf you don’t have Git installed, you can get the example project via usethis:\nusethis::use_course(\"posit-dev/positron-workshop-project\")",
     "crumbs": [
       "Modules",
       "Projects"
