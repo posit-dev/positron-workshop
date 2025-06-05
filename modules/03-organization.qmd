@@ -1,5 +1,5 @@
 ---
-title: Projects
+title: Organization
 ---
 
 {{< include _slides.md >}}
