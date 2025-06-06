@@ -29,4 +29,8 @@ Bring your laptop with the latest version of Positron installed. See [Setup](set
 
 ## Instructor
 
+[Mine Çetinkaya-Rundel](https://mine-cr.com/) is a Professor of the Practice in the Department of Statistical Science at Duke University and a Developer Educator at Posit PBC.
+
+[Hadley Wickham](https://hadley.nz/) is the Chief Scientist at Posit PBC.
+
 {{< include _license.md >}}
