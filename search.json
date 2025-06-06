@@ -112,11 +112,11 @@
     "text": "Schedule\n\n\n\nTime\nTopic\n\n\n\n\n1:00 - 1:20\nHello Positron\n\n\n1:20 - 1:45\nExploring Positron\n\n\n1:45 - 2:10\nOrganization\n\n\n2:10 - 2:30\nQuarto\n\n\n2:30 - 2:40\nBreak\n\n\n2:40 - 3:10\nR\n\n\n3:10 - 3:40\nCustomization and extensions\n\n\n3:40 - 4:00\nBeyond\n\n\n4:00 - 4:15\nWrap-up and Q&A"
   },
   {
-    "objectID": "uscots.html#instructor",
-    "href": "uscots.html#instructor",
+    "objectID": "uscots.html#instructors",
+    "href": "uscots.html#instructors",
     "title": "Doing data science in Positron",
-    "section": "Instructor",
-    "text": "Instructor\nMine Çetinkaya-Rundel is a Professor of the Practice in the Department of Statistical Science at Duke University and a Developer Educator at Posit PBC.\nHadley Wickham is the Chief Scientist at Posit PBC."
+    "section": "Instructors",
+    "text": "Instructors\nMine Çetinkaya-Rundel is a Professor of the Practice in the Department of Statistical Science at Duke University and a Developer Educator at Posit PBC.\nHadley Wickham is the Chief Scientist at Posit PBC."
   },
   {
     "objectID": "uscots.html#license",
