@@ -4,3 +4,7 @@ title: Hello Positron
 
 {{< include _slides.md >}}
 
+Install Positron:
+
+* Latest released version: <https://positron.posit.co/download.html>
+* Pre-releases are here: <https://github.com/posit-dev/positron/releases>
