@@ -19,10 +19,10 @@ Bring your laptop with the latest version of Positron installed. For this worksh
 |-------|--------|
 |  9:00 -  9:30 | [Hello Positron](modules/01-hello-positron.qmd) |
 |  9:30 - 10:00 | [Exploring Positron](modules/02-explore.qmd) |
-| 10:00 - 10:30 | [Organization](modules/03-organization.qmd) |
+| 10:00 - 10:30 | [Organization](modules/03-organize.qmd) |
 | 11:00 - 11:30 | [Quarto](modules/04-quarto.qmd) |
 | 11:30 - 12:00 | [R](modules/05-r.qmd) |
-| 12:00 - 12:30 | [Customization](modules/06-customization.qmd) |
+| 12:00 - 12:30 | [Customization and extensions](modules/06-customize.qmd) |
 
 ## Instructor
 

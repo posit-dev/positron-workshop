@@ -18,12 +18,12 @@ Bring your laptop with the latest version of Positron installed. See [Setup](set
 | Time | Topic |
 |------|-------|
 | 1:00 - 1:20 | [Hello Positron](modules/01-hello-positron.qmd) |
-| 1:20 - 1:45 | [Looking Around](modules/02-looking-around.qmd) |
-| 1:45 - 2:10 | [Organization](modules/03-organization.qmd) |
+| 1:20 - 1:45 | [Exploring Positron](modules/02-explore.qmd) |
+| 1:45 - 2:10 | [Organization](modules/03-organize.qmd) |
 | 2:10 - 2:30 | [Quarto](modules/04-quarto.qmd) |
 | 2:30 - 2:40 | Break |
 | 2:40 - 3:10 | [R](modules/05-r.qmd) |
-| 3:10 - 3:40 | [Customization](modules/06-customization.qmd) |
+| 3:10 - 3:40 | [Customization and extensions](modules/06-customize.qmd) |
 | 3:40 - 4:00 | [Beyond](modules/07-beyond.qmd) |
 | 4:00 - 4:15 | Wrap-up and Q&A |
 
