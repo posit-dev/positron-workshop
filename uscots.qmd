@@ -27,7 +27,7 @@ Bring your laptop with the latest version of Positron installed. See [Setup](set
 | 3:40 - 4:00 | [Beyond](modules/07-beyond.qmd) |
 | 4:00 - 4:15 | Wrap-up and Q&A |
 
-## Instructor
+## Instructors
 
 [Mine Çetinkaya-Rundel](https://mine-cr.com/) is a Professor of the Practice in the Department of Statistical Science at Duke University and a Developer Educator at Posit PBC.
 
