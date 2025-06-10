@@ -29,5 +29,6 @@ website:
     
 format:
   html:
+    css: positron-settings.css
     code-overflow: wrap
 
