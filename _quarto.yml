@@ -3,8 +3,10 @@ project:
 
 website:
   page-navigation: true
-  title: "Positron Workshop"
+  site-url: https://posit-dev.github.io/positron-workshop/
+  title: "Getting Started with Positron"
   description: "Half-day introduction to Positron for R/RStudio users"
+  image: images/card.png
   repo-url: https://github.com/posit-dev/positron-workshop
   page-footer:
     center:

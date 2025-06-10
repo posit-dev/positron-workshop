@@ -2,6 +2,7 @@
 title: Intro to Positron for R/RStudio Users
 subtitle: Cascadia R Conf 2025
 sidebar: main
+image: /images/card-cascadia.png
 ---
 
 > Friday June 20, 2025  
