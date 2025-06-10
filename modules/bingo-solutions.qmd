@@ -1,4 +1,9 @@
-### Editor
+---
+title: "Bingo Solutions"
+toc: true
+---
+
+## Editor
 
 -   A way to open a new R script file
 
@@ -23,7 +28,7 @@
 
     -   File Explorer: {{< iconify codicon:new-file >}} New File... button
 
--   The shortcut to send R code from the Editor to the Console
+-   The shortcut to send R code to the Console
 
     -   `Cmd/Ctrl` + `Enter`
 
@@ -39,20 +44,27 @@
 
         ![](images/bingo-replace.png){.border}
 
+    There is also a Search in the Activity Bar that allows you to Find and Replace across files in the project.    
+
+    ![](images/bingo-find-in-files.png){.border}
+
 -   The shortcut for the command "Help: Show help at cursor"
 
     -   `F1`
 
         ![](images/bingo-help-shortcut.png)
 
--   Where help, e.g. `?mean`, displays
 
-    -   In the Help pane:
+-   The shortcut for "Toggle Line Comment"
 
-        ![](images/bingo-help-pane.png)
+    -   `Cmd/Ctrl` + `Shift` + `C`
 
+        ![](images/bingo-line-comment.png)
 
-### Console
+        You need to have a file open in the Editor to use this shortcut.
+        It will comment out the current line or selected lines of code.
+
+## Console
 
 -   The version of R running in the Console
 
@@ -68,31 +80,61 @@
 
       ![](images/bingo-console-info.png){.border}
 
--   The button to restart R running in the Console 
+-   The button to restart the R Console 
 
     - ![](images/bingo-console-restart.png){.border}
 
     - `Cmd/Ctrl` + `Shift` + `0`
 
--   The current working directory of R running the Console
+-   The current working directory of the Console
 
     - ![](images/bingo-console-wd.png){.border}
 
--   Where you can explore variables you've defined in the Console
+-   Variables you've defined in the Console
 
     - The Variables section of the Session pane
 
       ![](images/bingo-session-variables.png)
 
-### Data Explorer
+## Data Explorer
 
-Run `View(mtcars)` in the Console, then find:
+Run `View(mtcars)` in the Console first.
 
--   
+-   Data Explorer: the car with the highest mpg
 
--   
+    -  Click on the More button ({{< iconify codicon:kebab-vertical >}}) in the `mpg` column, then **Sort Descending**
+        
+        ![](images/bingo-data-explorer-sort.png)
 
-### File Explorer
+    -  Toyota Corolla has the highest mpg
+
+       ![](images/bingo-data-explorer-sorted.png)
+
+-   Data Explorer: the number of cars where cyl is 4
+    -  Click on the More button ({{< iconify codicon:kebab-vertical >}}) in the `cyl` column, then **Add Filter**
+      
+       ![](images/bingo-data-explorer-add-filter.png)
+    
+    -  Set `cyl` *Is equal to* `4` and click **Apply Filter**
+      
+       ![](images/bingo-data-explorer-filter-dialog.png)
+
+    -  Active filter is shown at the top of the Data Explorer. Footer shows the number in the current view. There are 11 cars with 4 cylinders.
+       
+       ![](images/bingo-data-explorer-filter-applied.png)
+
+
+## Help
+
+-   Where help, e.g. `?mean`, displays
+
+    -   In the Help pane:
+
+        ![](images/bingo-help-pane.png)
+
+
+
+## File Explorer
 
 -   A prompt to "Open a folder"
 
@@ -108,7 +150,7 @@ Run `View(mtcars)` in the Console, then find:
       Right-click in Explorer for more options
       ![](images/bingo-file-explorer-actions.png)
 
-### Other
+## Other
 
 -   An RStudio pane that isn't in Positron
 
@@ -121,3 +163,6 @@ Run `View(mtcars)` in the Console, then find:
 -   The purpose of an icon you've never seen before
 
     - Hover and you'll get a tooltip
+
+
+## 
