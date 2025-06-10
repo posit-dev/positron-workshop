@@ -41,7 +41,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../site_libs/bootstrap/bootstrap-da2b244fe74f2c70164cdc7cd5b598c6.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
-<script src="../site_libs/quarto-contrib/iconify-3.0.0/iconify-icon.min.js"></script>
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -71,12 +70,10 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 
 
+<link rel="stylesheet" href="../positron-settings.css">
 <meta property="og:title" content="Exploring Positron – Positron Workshop">
 <meta property="og:description" content="Half-day introduction to Positron for R/RStudio users">
-<meta property="og:image" content="https://posit-dev.github.io/positron-workshop/modules/images/bingo-new-file.png">
 <meta property="og:site_name" content="Positron Workshop">
-<meta property="og:image:height" content="334">
-<meta property="og:image:width" content="831">
 </head>
 
 <body class="nav-sidebar floating fullcontent quarto-light">
@@ -228,119 +225,7 @@ Bingo Solutions: Don’t peek!
 </div>
 <div id="callout-1" class="callout-1-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
-<section id="editor" class="level3">
-<h3 class="anchored" data-anchor-id="editor">Editor</h3>
-<ul>
-<li><p>A way to open a new R script file</p>
-<ul>
-<li><div class="quarto-layout-panel" data-layout-ncol="2">
-<div class="quarto-layout-row">
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
-<p><strong>File &gt; New File…</strong> or, <img src="images/bingo-new-file.png" class="img-fluid"></p>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
-<p><strong>New &gt; New File…</strong> <img src="images/bingo-new-menu.png" class="img-fluid"></p>
-</div>
-</div>
-</div>
-<p>Then <strong>R File</strong> <img src="images/bingo-file-type-selector.png" class="img-fluid"></p></li>
-<li><p>Command Palette: <strong>R: New R File</strong></p></li>
-<li><p><code>Cmd/Ctrl</code> + <code>Shift</code> + <code>N</code></p></li>
-<li><p>File Explorer: <iconify-icon role="img" inline="" icon="codicon:new-file" aria-label="Icon new-file from codicon Iconify.design set." title="Icon new-file from codicon Iconify.design set."></iconify-icon> New File… button</p></li>
-</ul></li>
-<li><p>The shortcut to send R code from the Editor to the Console</p>
-<ul>
-<li><p><code>Cmd/Ctrl</code> + <code>Enter</code></p>
-<p><img src="images/bingo-run-menu.png" class="border img-fluid"></p></li>
-</ul></li>
-<li><p>The “Find and Replace” dialog box</p>
-<ul>
-<li><p><strong>Edit &gt; Find</strong></p></li>
-<li><p><code>Cmd/Ctrl</code> + <code>F</code></p></li>
-<li><p>Hit the chevron (<iconify-icon role="img" inline="" icon="codicon:chevron-right" aria-label="Icon chevron-right from codicon Iconify.design set." title="Icon chevron-right from codicon Iconify.design set."></iconify-icon>) to expand for the Replace dialog</p>
-<p><img src="images/bingo-replace.png" class="border img-fluid"></p></li>
-</ul></li>
-<li><p>The shortcut for the command “Help: Show help at cursor”</p>
-<ul>
-<li><p><code>F1</code></p>
-<p><img src="images/bingo-help-shortcut.png" class="img-fluid"></p></li>
-</ul></li>
-<li><p>Where help, e.g.&nbsp;<code>?mean</code>, displays</p>
-<ul>
-<li><p>In the Help pane:</p>
-<p><img src="images/bingo-help-pane.png" class="img-fluid"></p></li>
-</ul></li>
-</ul>
-</section>
-<section id="console" class="level3">
-<h3 class="anchored" data-anchor-id="console">Console</h3>
-<ul>
-<li><p>The version of R running in the Console</p>
-<ul>
-<li><p>In the Console startup message:</p>
-<p><img src="images/bingo-console-rversion.png" class="border img-fluid"></p></li>
-<li><p>In the Session Selector:</p>
-<p><img src="images/bingo-session-selector.png" class="border img-fluid"></p></li>
-<li><p>Under Console Info:</p>
-<p><img src="images/bingo-console-info.png" class="border img-fluid"></p></li>
-</ul></li>
-<li><p>The button to restart R running in the Console</p>
-<ul>
-<li><p><img src="images/bingo-console-restart.png" class="border img-fluid"></p></li>
-<li><p><code>Cmd/Ctrl</code> + <code>Shift</code> + <code>0</code></p></li>
-</ul></li>
-<li><p>The current working directory of R running the Console</p>
-<ul>
-<li><img src="images/bingo-console-wd.png" class="border img-fluid"></li>
-</ul></li>
-<li><p>Where you can explore variables you’ve defined in the Console</p>
-<ul>
-<li><p>The Variables section of the Session pane</p>
-<p><img src="images/bingo-session-variables.png" class="img-fluid"></p></li>
-</ul></li>
-</ul>
-</section>
-<section id="data-explorer" class="level3">
-<h3 class="anchored" data-anchor-id="data-explorer">Data Explorer</h3>
-<p>Run <code>View(mtcars)</code> in the Console, then find:</p>
-<ul>
-<li></li>
-<li></li>
-</ul>
-</section>
-<section id="file-explorer" class="level3">
-<h3 class="anchored" data-anchor-id="file-explorer">File Explorer</h3>
-<ul>
-<li><p>A prompt to “Open a folder”</p>
-<ul>
-<li><p><img src="images/bingo-open-folder.png" class="img-fluid"></p></li>
-<li><p>File Explorer comes alive once a folder is opened:</p>
-<p><img src="images/bingo-file-explorer.png" class="img-fluid"></p></li>
-</ul></li>
-<li><p>An action you can take on a folder once it is open</p>
-<ul>
-<li>Buttons: New File…, New Folder<br>
-Right-click in Explorer for more options <img src="images/bingo-file-explorer-actions.png" class="img-fluid"></li>
-</ul></li>
-</ul>
-</section>
-<section id="other" class="level3">
-<h3 class="anchored" data-anchor-id="other">Other</h3>
-<ul>
-<li><p>An RStudio pane that isn’t in Positron</p>
-<ul>
-<li>History</li>
-<li>Packages</li>
-<li>Build</li>
-<li>Tutorial</li>
-<li>Background Jobs</li>
-</ul></li>
-<li><p>The purpose of an icon you’ve never seen before</p>
-<ul>
-<li>Hover and you’ll get a tooltip</li>
-</ul></li>
-</ul>
-</section>
+<p><a href="../bingo-solutions/index.html">Solutions</a></p>
 </div>
 </div>
 </div>
