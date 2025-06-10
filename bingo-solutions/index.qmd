@@ -1,0 +1,392 @@
+---
+title: "Bingo Solutions"
+toc: true
+sidebar: main
+---
+
+[Back to Explore module](/modules/02-explore.qmd)
+
+
+## Editor
+
+### A way to open a new R script file
+
+-   ::: {layout-ncol="2"}
+    :::: {}
+    **File \> New File...** or,
+    ![](images/bingo-new-file.png)
+    ::::
+
+    :::: {}
+    **New \> New File...** 
+    ![](images/bingo-new-menu.png)
+    ::::
+    :::
+    
+    Then **R File**
+    ![](images/bingo-file-type-selector.png)
+
+-   Command Palette: **R: New R File**
+
+-   `Cmd/Ctrl` + `Shift` + `N`
+
+-   File Explorer: {{< iconify codicon:new-file >}} New File... button
+
+### A way to see and edit two files side by side
+
+*   Hit the Split Editor button ({{< iconify codicon:split-horizontal >}}) in the Editor toolbar:
+
+    ![](images/bingo-split-button.png)
+
+    Then open a file.
+
+*   Right-click on a file in the Explorer and select **Open to the Side**.
+
+*   Command: **Go to File...** and then hit the Split Editor button ({{< iconify codicon:split-horizontal >}}):
+
+    ![](images/bingo-go-to-file-split.png)
+
+
+### The shortcut to send R code to the Console
+
+`Cmd/Ctrl` + `Enter`
+
+![](images/bingo-run-menu.png){.border}
+
+### The "Find and Replace" dialog box
+
+-   **Edit \> Find**
+
+-   `Cmd/Ctrl` + `F`
+
+Hit the chevron ({{< iconify codicon:chevron-right >}}) to expand for the Replace dialog
+
+![](images/bingo-replace.png){.border}
+
+There is also a Search in the Activity Bar that allows you to Find and Replace across files in the project.    
+
+![](images/bingo-find-in-files.png){.border}
+
+### The shortcut for the command "Help: Show help at cursor"
+
+`F1`
+
+![](images/bingo-help-shortcut.png)
+
+
+### The shortcut for "Toggle Line Comment"
+
+`Cmd/Ctrl` + `Shift` + `C`
+
+![](images/bingo-line-comment.png)
+
+You need to have a file open in the Editor to use this shortcut.
+
+It will comment out the current line or selected lines of code.
+
+### The shortcut to insert the pipe, e.g. |>
+
+`Cmd/Ctrl` + `Shift` + `M`
+
+Command: **Preferences: Open Keyboard Shortcuts**
+
+![](images/bingo-keyboard-shortcuts-pipe.png)
+
+### The shortcut to insert "<-"
+
+`Alt/Option` + `-`
+
+Command: **Preferences: Open Keyboard Shortcuts**
+
+![](images/bingo-keyboard-shortcuts-assignment.png)
+
+## Console
+
+### The version of R running in the Console
+
+- In the Console startup message:
+
+  ![](images/bingo-console-rversion.png){.border}
+
+- In the Session Selector:
+
+  ![](images/bingo-session-selector.png){.border}
+
+- Under Console Info:
+
+  ![](images/bingo-console-info.png){.border}
+
+### The button to restart the R Console 
+
+-  ![](images/bingo-console-restart.png){.border}
+
+- `Cmd/Ctrl` + `Shift` + `0`
+
+### The current working directory of the Console
+
+![](images/bingo-console-wd.png){.border}
+
+### Variables you've defined in the Console
+
+The Variables section of the Session pane
+
+![](images/bingo-session-variables.png)
+
+### A way to start another Console
+
+* New button ({{< iconify codicon:add >}}) in Panel toolbar 
+    ![](images/bingo-console-new.png)
+
+
+*  Interpreter selector:
+
+    1. Click on **Interpreter selector**
+        ![](images/bingo-interpreter-selector.png)
+    2. Select **Start New Interpreter Session**
+        ![](images/bingo-new-interpreter.png)
+
+
+* Command: **Interpreter: Start New Interpreter Session**
+
+### The button that opens your console history
+
+Button in Console toolbar: 
+
+![](images/bingo-console-open-in-editor.png)
+
+## File Explorer
+
+### A prompt to "Open a folder"
+
+![](images/bingo-open-folder.png)
+
+File Explorer comes alive once a folder is opened:
+
+![](images/bingo-file-explorer.png)
+
+### An action you can take on a folder once it is open
+
+* Buttons: New File..., New Folder  
+* Right-click in Explorer for more options
+
+![](images/bingo-file-explorer-actions.png)
+
+
+## Search and Navigation
+
+### A string, but only in .R files
+
+Use **Search** in the Activity bar ({{< iconify codicon:search >}})
+
+![](images/bingo-search-activity.png)
+
+Expand by hitting the dots ({{< iconify codicon:ellipsis >}}) to show "files to include" and use `*.R` to search only in R files
+
+![](images/bingo-search-r-files.png)
+
+### A string, but only in a specific (sub)folder
+
+Use **Search** in the Activity bar ({{< iconify codicon:search >}})
+
+![](images/bingo-search-activity.png)
+
+Expand by hitting the dots ({{< iconify codicon:ellipsis >}}) to show "files to include" and use a folder `folder/` to search only in `folder/`:
+
+![](images/bingo-search-folder.png)
+
+### A way to open a specific file by its name
+
+1.  Click in the Search bar:
+
+    ![](images/bingo-search-bar.png)
+
+    Alternatives: 
+      
+      * Open the Command Palette and delete the `>`.
+      * Command: **Go to File...**
+
+2.  Type to see files by name:
+
+    ![](images/bingo-open-files.png)
+
+3.  Click or navigate with arrows and hit Enter to open the file
+
+### A way to navigate to a specific symbol, e.g. function
+
+1.  Click in the Search bar and add `#:
+
+    ![](images/bingo-search-symbol.png)
+
+    Alternatives: 
+      
+      * Open the Command Palette and delete the `>`, then add `#`.
+
+      * Command: **Go to Symbol in Workspace...**
+
+2.  Type to see symbols (function names, variable names, markdown section headings) by name
+
+3.  Click or navigate with arrows and hit Enter to open the file at the symbol
+
+## Data Explorer
+
+Run `View(mtcars)` in the Console first.
+
+### Data Explorer: the car with the highest mpg
+
+1.  Click on the More button ({{< iconify codicon:kebab-vertical >}}) in the `mpg` column, then **Sort Descending**
+    
+    ![](images/bingo-data-explorer-sort.png)
+
+2.  Toyota Corolla has the highest mpg
+
+    ![](images/bingo-data-explorer-sorted.png)
+
+### Data Explorer: the number of cars where cyl is 4
+
+1.  Click on the More button ({{< iconify codicon:kebab-vertical >}}) in the `cyl` column, then **Add Filter**
+
+    ![](images/bingo-data-explorer-add-filter.png)
+
+2.  Set `cyl` *Is equal to* `4` and click **Apply Filter**
+  
+    ![](images/bingo-data-explorer-filter-dialog.png)
+
+3.  Active filter is shown at the top of the Data Explorer. Footer shows the number in the current view. There are 11 cars with 4 cylinders.
+    
+    ![](images/bingo-data-explorer-filter-applied.png)
+
+
+## Other panes
+
+### Where Git information and actions live
+
+Activity Bar: Source Control ({{< iconify codicon:source-control >}})
+
+![](images/bingo-source-control.png)
+
+### Where help, e.g. `?mean`, displays
+
+In the Help pane:
+
+![](images/bingo-help-pane.png)
+
+### A terminal, i.e. "a shell"
+
+In the Panel next to Console:
+
+![](images/bingo-terminal.png)
+
+### The button that saves a plot 
+
+*   Save button in the Plots pane toolbar:
+    ![](images/bingo-save-plot.png)
+
+*   Command: **Plots: Save Plot**
+
+### An RStudio pane that isn't in Positron
+
+- History (see [the button that opens Console history in Editor](#the-button-that-opens-your-console-history))
+- Packages 
+- Build 
+- Tutorial
+- Background Jobs 
+
+## Customization
+
+### Dark mode
+
+Command: **Preferences: Toggle between Light/Dark Themes**
+
+![](images/bingo-toggle-light-dark.png)
+
+### How to change the IDE theme
+
+Command: **Preferences: Color Theme** 
+
+![](images/bingo-set-theme.png)
+
+Choose from built-in themes or "Browse Additional Color Themes ..." to sample and install more themes from the Marketplace.
+
+![](images/bingo-theme-options.png)
+
+
+### The button to customize your layout
+
+*   {{< iconify codicon:layout >}}
+
+    ![](images/bingo-layout-button.png)
+
+*  Command: **Customize Layout...**
+
+### A button to toggle the primary side bar panel
+
+Toggle Primary Side Bar button ({{< iconify codicon:layout-sidebar-left >}}):
+
+![](images/bingo-sidebar-toggle.png)
+
+Command: **View: Toggle Primary Side Bar Visibility**
+
+`Cmd/Ctrl` + `B`
+
+### How to change the IDE zoom level
+
+*   Command: **View: Zoom In** or **View: Zoom Out**
+
+    ![](images/bingo-zoom-commands.png)
+
+*   `Cmd/Ctrl` + `+`,  `Cmd/Ctrl` + `-`
+
+*   Zoom in Status Bar
+
+    ![](images/bingo-zoom-status-bar.png)
+
+### The currently installed extensions
+
+* Command: **Extensions: Focus on Installed View**
+
+*  In the Extensions pane in the Activity Bar: `...` > Views > Installed
+
+![](images/bingo-installed-extensions.png)
+
+### Where to configure settings
+
+* Command: **Preferences: Open Settings (UI)**
+
+* `Cmd/Ctrl` + `,`
+
+![](images/bingo-settings.png)
+
+
+### The setting that enables RStudio shortcuts
+
+![](images/bingo-rstudio-keyboard-shortcuts.png)
+
+[Workbench > Keybindings: RStudio Keybindings](positron://settings/workbench.keybindings.rstudioKeybindings)
+
+See also Positron Docs: [RStudio Keybindings](https://positron.posit.co/keyboard-shortcuts.html#rstudio-keybindings)
+
+## Other
+
+### Another way to open the Command Palette
+
+*   **Help > Show All Commands**
+    
+    ![](images/bingo-help-show-all-commands.png)
+
+*   Search Bar: add `>` 
+    ![](images/bingo-search-bar.png)
+
+    ![](images/bingo-search-bar-all-commands.png)
+
+### The version of Positron you're running
+
+![](images/bingo-positron-version.png)
+
+* **Positron > About Positron** (Mac) or **Help > About** (Windows/Linux)
+
+* Command: **Help: About**
+
+
+### The purpose of an icon you've never seen before
+
+Hover and you'll get a tooltip

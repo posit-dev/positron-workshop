@@ -13,6 +13,6 @@ You'll receive your own unique card in the workshop.
 ::: {.callout-warning collapse="true"}
 ## Bingo Solutions: Don't peek!
 
-[Solutions](bingo-solutions.qmd)
+[Solutions](/bingo-solutions/index.qmd)
 
 :::
