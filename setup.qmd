@@ -12,7 +12,7 @@ Pre-releases are available at: <https://github.com/posit-dev/positron/releases>
 
 ## R - Required
 
-Positron will detect your existing R installation, so if you have a recent version of R (> 4.2) installed, you don't need to do anything else.
+Positron will detect your existing R installation, so if you have a recent version of R (>= 4.2) installed, you don't need to do anything else.
 
 If you don't have R installed, or need to update, follow the instructions for your operating system at <https://cloud.r-project.org/>.
 
