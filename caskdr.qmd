@@ -13,7 +13,9 @@ image: /images/card-cascadia.png
 
 ## Before the workshop
 
-Bring your laptop with the latest version of Positron installed. See [Setup](setup.qmd) for detailed instructions.
+Bring your laptop with the latest version of Positron installed.  For this workshop in particular, it may be worth it to install a pre-release (instead of the monthly release). See [Setup](setup.qmd) for detailed instructions.
+
+Join us on [Slack](https://join.slack.com/t/cascadiarconf/shared_invite/zt-1lu53059t-GAxQtzrwQhmo7BXE7YfC8w) and find the `#workshop-intro-to-positron-2025` channel.
 
 ## Schedule
 
