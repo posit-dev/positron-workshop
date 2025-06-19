@@ -29,7 +29,7 @@ Join us on [Slack](https://join.slack.com/t/cascadiarconf/shared_invite/zt-1lu53
 | 3:20 - 3:40 | [R](modules/05-r.qmd) |
 | 3:40 - 4:00 | [Customization and extensions](modules/06-customize.qmd) |
 | 4:00 - 4:15 | [Beyond](modules/07-beyond.qmd) |
-| 4:15 - 4:30 | Wrap Up and Q&A |
+| 4:15 - 4:30 | [Wrap Up](modules/99-wrap-up.qmd) and Q&A |
 
 ## Instructor
 
