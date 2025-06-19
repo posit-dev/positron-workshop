@@ -160,7 +160,7 @@
     "href": "caskdr.html#before-the-workshop",
     "title": "Intro to Positron for R/RStudio Users",
     "section": "Before the workshop",
-    "text": "Before the workshop\nBring your laptop with the latest version of Positron installed. See Setup for detailed instructions."
+    "text": "Before the workshop\nBring your laptop with the latest version of Positron installed. For this workshop in particular, it may be worth it to install a pre-release (instead of the monthly release). See Setup for detailed instructions.\nJoin us on Slack and find the #workshop-intro-to-positron-2025 channel."
   },
   {
     "objectID": "caskdr.html#schedule",
