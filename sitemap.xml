@@ -2,62 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://posit-dev.github.io/positron-workshop/LICENSE.html</loc>
-    <lastmod>2025-07-11T01:09:18.054Z</lastmod>
+    <lastmod>2025-07-11T01:22:13.092Z</lastmod>
   </url>
   <url>
     <loc>https://posit-dev.github.io/positron-workshop/caskdr.html</loc>
-    <lastmod>2025-07-11T01:09:18.129Z</lastmod>
+    <lastmod>2025-07-11T01:22:13.167Z</lastmod>
   </url>
   <url>
     <loc>https://posit-dev.github.io/positron-workshop/setup.html</loc>
-    <lastmod>2025-07-11T01:09:18.133Z</lastmod>
+    <lastmod>2025-07-11T01:22:13.171Z</lastmod>
   </url>
   <url>
     <loc>https://posit-dev.github.io/positron-workshop/modules/05-r.html</loc>
-    <lastmod>2025-07-11T01:09:18.132Z</lastmod>
+    <lastmod>2025-07-11T01:22:13.171Z</lastmod>
   </url>
   <url>
     <loc>https://posit-dev.github.io/positron-workshop/modules/04-quarto.html</loc>
-    <lastmod>2025-07-11T01:09:18.132Z</lastmod>
+    <lastmod>2025-07-11T01:22:13.171Z</lastmod>
   </url>
   <url>
     <loc>https://posit-dev.github.io/positron-workshop/modules/01-hello-positron.html</loc>
-    <lastmod>2025-07-11T01:09:18.132Z</lastmod>
-  </url>
-  <url>
-    <loc>https://posit-dev.github.io/positron-workshop/modules/99-wrap-up.html</loc>
-    <lastmod>2025-07-11T01:09:18.132Z</lastmod>
-  </url>
-  <url>
-    <loc>https://posit-dev.github.io/positron-workshop/uscots.html</loc>
-    <lastmod>2025-07-11T01:09:18.219Z</lastmod>
+    <lastmod>2025-07-11T01:22:13.171Z</lastmod>
   </url>
   <url>
     <loc>https://posit-dev.github.io/positron-workshop/modules/03-organize.html</loc>
-    <lastmod>2025-07-11T01:09:18.132Z</lastmod>
+    <lastmod>2025-07-11T01:22:13.171Z</lastmod>
+  </url>
+  <url>
+    <loc>https://posit-dev.github.io/positron-workshop/uscots.html</loc>
+    <lastmod>2025-07-11T01:22:13.257Z</lastmod>
   </url>
   <url>
     <loc>https://posit-dev.github.io/positron-workshop/modules/02-explore.html</loc>
-    <lastmod>2025-07-11T01:09:18.132Z</lastmod>
+    <lastmod>2025-07-11T01:22:13.171Z</lastmod>
   </url>
   <url>
     <loc>https://posit-dev.github.io/positron-workshop/modules/07-beyond.html</loc>
-    <lastmod>2025-07-11T01:09:18.132Z</lastmod>
+    <lastmod>2025-07-11T01:22:13.171Z</lastmod>
   </url>
   <url>
     <loc>https://posit-dev.github.io/positron-workshop/modules/06-customize.html</loc>
-    <lastmod>2025-07-11T01:09:18.132Z</lastmod>
+    <lastmod>2025-07-11T01:22:13.171Z</lastmod>
   </url>
   <url>
     <loc>https://posit-dev.github.io/positron-workshop/bingo-solutions/index.html</loc>
-    <lastmod>2025-07-11T01:09:18.129Z</lastmod>
+    <lastmod>2025-07-11T01:22:13.167Z</lastmod>
   </url>
   <url>
     <loc>https://posit-dev.github.io/positron-workshop/index.html</loc>
-    <lastmod>2025-07-11T01:09:18.132Z</lastmod>
+    <lastmod>2025-07-11T01:22:13.171Z</lastmod>
   </url>
   <url>
     <loc>https://posit-dev.github.io/positron-workshop/raukr.html</loc>
-    <lastmod>2025-07-11T01:09:18.132Z</lastmod>
+    <lastmod>2025-07-11T01:22:13.171Z</lastmod>
   </url>
 </urlset>
