@@ -76,7 +76,7 @@ There is also a Search in the Activity Bar that allows you to Find and Replace a
 
 ### The shortcut for "Toggle Line Comment"
 
-`Cmd/Ctrl` + `Shift` + `C`
+`Cmd/Ctrl` + `/`
 
 ![](images/bingo-line-comment.png)
 
