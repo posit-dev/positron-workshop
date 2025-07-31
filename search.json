@@ -195,6 +195,41 @@
     "text": "Hello there! We are so excited that you will be joining us for our workshop on getting started with Positron at useR! 2025 in person on the Duke University campus on Aug 8.\nWe have setup instructions at https://posit-dev.github.io/positron-workshop/setup.html, but there are a few details for you to think about ahead of our time together at the workshop:\n\nPlease install Positron ahead of the workshop, on the laptop that you plan to bring with you. Get the latest version at https://positron.posit.co/download.\nYou will also need R installed on your laptop, as Positron does not bundle R (or Python). You will need R &gt;= 4.2; follow the instructions for your operating system at https://cloud.r-project.org/.\nOnce you have Positron and R installed, open it to make sure the installation has gone well and Positron can find your R installation. Confirm that you can run 1 + 1 in Positron’s R console.\nIf you have trouble installing Positron or discovering R, please post about the challenges you are facing at https://github.com/posit-dev/positron/discussions; we’ll try to get you unstuck before we are together in person at the workshop.\n\nWe are looking forward to sharing more about how to use Positron with R!\nThanks, Julia & Jenny"
   },
   {
+    "objectID": "useR.html",
+    "href": "useR.html",
+    "title": "Getting Started with Positron: A Next-Generation IDE for data science",
+    "section": "",
+    "text": "Friday August 8, 2025\n1:30 PM - 4:30 PM\nuseR! 2025\nhttps://user2025.r-project.org/"
+  },
+  {
+    "objectID": "useR.html#before-the-workshop",
+    "href": "useR.html#before-the-workshop",
+    "title": "Getting Started with Positron: A Next-Generation IDE for data science",
+    "section": "Before the workshop",
+    "text": "Before the workshop\nBring your laptop with the latest version of Positron installed. See Setup for detailed instructions."
+  },
+  {
+    "objectID": "useR.html#schedule",
+    "href": "useR.html#schedule",
+    "title": "Getting Started with Positron: A Next-Generation IDE for data science",
+    "section": "Schedule",
+    "text": "Schedule\n\n\n\nTime\nTopic\n\n\n\n\n1:00 - 1:30\nHello Positron\n\n\n1:30 - 2:00\nExploring Positron\n\n\n2:00 - 2:30\nOrganization\n\n\n2:30 - 3:00\nBreak\n\n\n3:00 - 3:20\nQuarto\n\n\n3:20 - 3:40\nR\n\n\n3:40 - 4:00\nCustomization and extensions\n\n\n4:00 - 4:15\nBeyond\n\n\n4:15 - 4:30\nWrap Up and Q&A"
+  },
+  {
+    "objectID": "useR.html#instructors",
+    "href": "useR.html#instructors",
+    "title": "Getting Started with Positron: A Next-Generation IDE for data science",
+    "section": "Instructors",
+    "text": "Instructors\nJenny Bryan is a senior software engineer at Posit. She’s mostly on loan to the Positron team these days, but she keeps a hand in R package development, as part of the tidyverse team.\nJulia Silge is an engineering manager at Posit, mostly focused on Positron. Julia to add more."
+  },
+  {
+    "objectID": "useR.html#license",
+    "href": "useR.html#license",
+    "title": "Getting Started with Positron: A Next-Generation IDE for data science",
+    "section": "License",
+    "text": "License\nThis work is licensed under a Creative Commons Attribution 4.0 International License.\nTODO: place a link here back to this repo/site https://github.com/useR-tutorials-2025/getting-started-with-positron"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Getting Started with Positron",
