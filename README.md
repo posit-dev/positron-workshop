@@ -9,7 +9,7 @@ This workshop will be delivered at several events in 2025:
 * [RaukR](raukr.qmd) with Jenny Bryan, June 2025
 * [Cascadia R Conf](caskdr.qmd) with Charlotte Wickham, June 2025
 * [USCOTS](uscots.qmd) with Mine Çetinkaya-Rundel and Hadley Wickham, July 2025
-* useR with Jenny Bryan and Julia Silge, August 2025
+* [useR](useR.qmd) with Jenny Bryan and Julia Silge, August 2025
 
 ## Workflow
 

@@ -1,0 +1,41 @@
+---
+title: Getting Started with Positron: A Next-Generation IDE for data science
+subtitle: useR! 2025
+sidebar: main
+image: /images/card.png
+---
+
+https://github.com/useR-tutorials-2025/getting-started-with-positron
+
+> Friday August 8, 2025  
+> 1:30 PM - 4:30 PM  
+> useR! 2025  
+> <https://user2025.r-project.org/>
+
+## Before the workshop
+
+Bring your laptop with the latest version of Positron installed. See [Setup](setup.qmd) for detailed instructions.
+
+## Schedule
+
+| Time | Topic |
+|------|-------|
+| 1:00 - 1:30 | [Hello Positron](modules/01-hello-positron.qmd) |
+| 1:30 - 2:00 | [Exploring Positron](modules/02-explore.qmd) |
+| 2:00 - 2:30 | [Organization](modules/03-organize.qmd) |
+| 2:30 - 3:00 | Break | 
+| 3:00 - 3:20 | [Quarto](modules/04-quarto.qmd) |
+| 3:20 - 3:40 | [R](modules/05-r.qmd) |
+| 3:40 - 4:00 | [Customization and extensions](modules/06-customize.qmd) |
+| 4:00 - 4:15 | [Beyond](modules/07-beyond.qmd) |
+| 4:15 - 4:30 | [Wrap Up](modules/99-wrap-up.qmd) and Q&A |
+
+## Instructors
+
+[Jenny Bryan](https://github.com/jennybc) is a senior software engineer at Posit.
+She's mostly on loan to the Positron team these days, but she keeps a hand in R package development, as part of the tidyverse team.
+
+[Julia Silge](https://github.com/jennybc) is an engineering manager at Posit, mostly focused on Positron.
+*Julia to add more.*
+
+{{< include _license.md >}}
