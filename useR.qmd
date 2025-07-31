@@ -1,11 +1,9 @@
 ---
-title: Getting Started with Positron: A Next-Generation IDE for data science
+title: "Getting Started with Positron: A Next-Generation IDE for data science"
 subtitle: useR! 2025
 sidebar: main
 image: /images/card.png
 ---
-
-https://github.com/useR-tutorials-2025/getting-started-with-positron
 
 > Friday August 8, 2025  
 > 1:30 PM - 4:30 PM  
@@ -39,3 +37,6 @@ She's mostly on loan to the Positron team these days, but she keeps a hand in R 
 *Julia to add more.*
 
 {{< include _license.md >}}
+
+TODO: place a link here back to this repo/site
+https://github.com/useR-tutorials-2025/getting-started-with-positron
