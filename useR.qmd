@@ -37,6 +37,3 @@ She's mostly on loan to the Positron team these days, but she keeps a hand in R 
 *Julia to add more.*
 
 {{< include _license.md >}}
-
-TODO: place a link here back to this repo/site
-https://github.com/useR-tutorials-2025/getting-started-with-positron
