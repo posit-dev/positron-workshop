@@ -33,7 +33,7 @@ Bring your laptop with the latest version of Positron installed. See [Setup](set
 [Jenny Bryan](https://github.com/jennybc) is a senior software engineer at Posit.
 She's mostly on loan to the Positron team these days, but she keeps a hand in R package development, as part of the tidyverse team.
 
-[Julia Silge](https://github.com/jennybc) is an engineering manager at Posit, mostly focused on Positron.
-*Julia to add more.*
+[Julia Silge](https://github.com/jennybc) is an engineering manager at Posit, mostly focused on Positron these days.
+Previously, she worked on open source R (and Python) packages for MLOps, machine learning, and text analysis.
 
 {{< include _license.md >}}
